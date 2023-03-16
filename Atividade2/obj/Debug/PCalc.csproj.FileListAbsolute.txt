@@ -1,0 +1,10 @@
+D:\LP2\PVolume\PCalc\PCalc\obj\Debug\PCalc.csprojAssemblyReference.cache
+D:\LP2\PVolume\PCalc\PCalc\obj\Debug\PCalc.Form1.resources
+D:\LP2\PVolume\PCalc\PCalc\obj\Debug\PCalc.Properties.Resources.resources
+D:\LP2\PVolume\PCalc\PCalc\obj\Debug\PCalc.csproj.GenerateResource.cache
+D:\LP2\PVolume\PCalc\PCalc\obj\Debug\PCalc.csproj.CoreCompileInputs.cache
+D:\LP2\PVolume\PCalc\PCalc\bin\Debug\PCalc.exe.config
+D:\LP2\PVolume\PCalc\PCalc\bin\Debug\PCalc.exe
+D:\LP2\PVolume\PCalc\PCalc\bin\Debug\PCalc.pdb
+D:\LP2\PVolume\PCalc\PCalc\obj\Debug\PCalc.exe
+D:\LP2\PVolume\PCalc\PCalc\obj\Debug\PCalc.pdb
