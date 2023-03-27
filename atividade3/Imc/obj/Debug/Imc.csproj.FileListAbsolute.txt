@@ -1,0 +1,10 @@
+C:\Users\0030482221019\Downloads\atividade3\Imc\obj\Debug\Imc.csprojAssemblyReference.cache
+C:\Users\0030482221019\Downloads\atividade3\Imc\obj\Debug\Imc.Form1.resources
+C:\Users\0030482221019\Downloads\atividade3\Imc\obj\Debug\Imc.Properties.Resources.resources
+C:\Users\0030482221019\Downloads\atividade3\Imc\obj\Debug\Imc.csproj.GenerateResource.cache
+C:\Users\0030482221019\Downloads\atividade3\Imc\obj\Debug\Imc.csproj.CoreCompileInputs.cache
+C:\Users\0030482221019\Downloads\atividade3\Imc\bin\Debug\Imc.exe.config
+C:\Users\0030482221019\Downloads\atividade3\Imc\bin\Debug\Imc.exe
+C:\Users\0030482221019\Downloads\atividade3\Imc\bin\Debug\Imc.pdb
+C:\Users\0030482221019\Downloads\atividade3\Imc\obj\Debug\Imc.exe
+C:\Users\0030482221019\Downloads\atividade3\Imc\obj\Debug\Imc.pdb
