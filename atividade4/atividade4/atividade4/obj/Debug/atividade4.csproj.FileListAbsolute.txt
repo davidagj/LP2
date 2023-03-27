@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\bin\Debug\atividade4.exe.config
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\bin\Debug\atividade4.exe
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\bin\Debug\atividade4.pdb
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.Form1.resources
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.Properties.Resources.resources
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.exe
+C:\Users\User\Desktop\LP2\atividade4\atividade4\atividade4\obj\Debug\atividade4.pdb
